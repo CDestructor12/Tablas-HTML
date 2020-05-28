@@ -10,9 +10,9 @@
 <body>
     <h1>Creando Reportes y Consultas en Pantalla.</h1>
     <ul>
-        <li><a href="tabla1.php" target="_blank"> Reporte 1 - Sencillo</a></li>
-        <li><a href="tabla2.php" target="_blank" >Reporte 2 - Basico</a></li>
-        <li><a href="tabla3.php" target="_blank" >Reporte 3 - Intermedio</a></li>
+        <li><a href="./tables-php/tabla1.php" target="_blank">Reporte 1 - Sencillo</a></li>
+        <li><a href="./tables-php/tabla2.php" target="_blank">Reporte 2 - Basico</a></li>
+        <li><a href="./tables-php/tabla3.php" target="_blank">Reporte 3 - Intermedio</a></li>
     </ul>
 </body>
 
