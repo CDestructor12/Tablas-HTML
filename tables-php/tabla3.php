@@ -24,7 +24,7 @@
         });
     </script>
 
-    <script type="text/javascript" language="javascript" src="/DataTables/DataTables-1.10.21/js/jquery.dataTables.js"></script>
+    <script type="text/javascript" language="javascript" src="../DataTables/DataTables-1.10.21/js/jquery.dataTables.js"></script>
 </head>
 
 <body>
